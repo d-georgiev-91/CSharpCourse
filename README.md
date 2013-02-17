@@ -2,4 +2,4 @@ CSharpCourse
 ============
 
 CSharpCourse
-This are exercise for the CSharp course of Telerik Academy.
+Those are exercises for the CSharp course of Telerik Academy.
